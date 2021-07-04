@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399341927546",
+    "project_id": "photo-album-162d2",
+    "storage_bucket": "photo-album-162d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399341927546:android:5af2d2d989137c7f8b4fc3",
+        "android_client_info": {
+          "package_name": "com.example.album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399341927546-cqu7d4k702stk729gc4a5hdlddld9t0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEFU5wbfmDjMCuVIGB77Pvn0HN7DkkzY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399341927546-cqu7d4k702stk729gc4a5hdlddld9t0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
